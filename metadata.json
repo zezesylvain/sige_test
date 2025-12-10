@@ -1,0 +1,5 @@
+{
+  "name": "EduManager AI",
+  "description": "Une application complète de gestion scolaire (ERP) intégrant l'IA pour l'analyse pédagogique, la gestion des notes, des absences et des finances.",
+  "requestFramePermissions": []
+}
